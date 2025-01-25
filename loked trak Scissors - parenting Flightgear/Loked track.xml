@@ -1,0 +1,37 @@
+       
+
+
+
+       <animation>
+		<type>locked-track</type>
+		<object-name>1</object-name> 
+		<center>
+		  <x-m>0</x-m>
+		  <y-m>0</y-m>
+		  <z-m>0</z-m>
+		</center>
+		<lock-axis>
+		  <x>0</x>
+		  <y>-1</y> 
+		  <z>0</z>
+		</lock-axis>
+		<track-axis> 
+		  <x>0</x>
+		  <y>0</y>
+		  <z>1</z>
+		</track-axis>
+		
+		<target-name>3</target-name> 
+		<target-center>  
+		  <x-m>0</x-m>
+		  <y-m>0</y-m>
+		  <z-m>0</z-m>
+		</target-center>
+		
+		<slave-name>2</slave-name>
+		<slave-center>  
+		  <x-m>0</x-m>
+		  <y-m>0</y-m>
+		  <z-m>0</z-m>
+		</slave-center>
+	  </animation>
