@@ -1,0 +1,115 @@
+    <!-- Lower Cylinder -->
+
+  <animation>
+    <type>locked-track</type>
+
+    <object-name>LgearVerin</object-name>
+    <center>
+      <x-m>5.81005</x-m>
+      <y-m>-5.26786</y-m>
+      <z-m>-3.41441</z-m>
+    </center>
+    <lock-axis>
+      <x>1</x>
+      <y>0</y>
+      <z>0</z>
+    </lock-axis>
+    <track-axis>
+      <x>0.00439</x>
+      <y>0.17918</y>
+      <z>2.01272</z>
+    </track-axis>
+
+    <target-name>LgearVerinFixation</target-name>
+    <target-center>
+      <x-m>5.80566</x-m>
+      <y-m>-5.08868</y-m>
+      <z-m>-1.40169</z-m>
+    </target-center>
+  </animation>
+
+  <animation>
+    <type>locked-track</type>
+
+    <object-name>LgearVerin</object-name>
+    <center>
+      <x-m>5.81005</x-m>
+      <y-m>-5.26786</y-m>
+      <z-m>-3.41441</z-m>
+    </center>
+    <lock-axis>
+      <x>0</x>
+      <y>1</y>
+      <z>0</z>
+    </lock-axis>
+    <track-axis>
+      <x>0.00439</x>
+      <y>0.17918</y>
+      <z>2.01272</z>
+    </track-axis>
+
+    <target-name>LgearVerinFixation</target-name>
+    <target-center>
+      <x-m>5.80566</x-m>
+      <y-m>-5.08868</y-m>
+      <z-m>-1.40169</z-m>
+    </target-center>
+  </animation>
+
+  <!-- Upper Cylinder -->
+
+  <animation>
+    <type>locked-track</type>
+
+    <object-name>LgearVerin1</object-name>
+    <center>
+      <x-m>5.80566</x-m>
+      <y-m>-5.08868</y-m>
+      <z-m>-1.40169</z-m>
+    </center>
+    <lock-axis>
+      <x>1</x>
+      <y>0</y>
+      <z>0</z>
+    </lock-axis>
+    <track-axis>
+      <x>-0.00439</x>
+      <y>-0.17918</y>
+      <z>-2.01272</z>
+    </track-axis>   
+
+    <target-name>LgearAxe</target-name>
+    <target-center>
+       <x-m>5.81005</x-m>
+      <y-m>-5.26786</y-m>
+      <z-m>-3.41441</z-m>
+    </target-center>
+  </animation>
+
+   <animation>
+    <type>locked-track</type>
+
+    <object-name>LgearVerin1</object-name>
+    <center>
+      <x-m>5.80566</x-m>
+      <y-m>-5.08868</y-m>
+      <z-m>-1.40169</z-m>
+    </center>
+    <lock-axis>
+      <x>0</x>
+      <y>1</y>
+      <z>0</z>
+    </lock-axis>
+    <track-axis>
+      <x>-0.00439</x>
+      <y>-0.17918</y>
+      <z>-2.01272</z>
+    </track-axis>   
+
+    <target-name>LgearAxe</target-name>
+    <target-center>
+       <x-m>5.81005</x-m>
+      <y-m>-5.26786</y-m>
+      <z-m>-3.41441</z-m>
+    </target-center>
+  </animation>
